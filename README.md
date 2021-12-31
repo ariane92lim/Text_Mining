@@ -8,4 +8,4 @@ All the notebooks should have the following:
 4. Conclusion and some recommendations
 
 Here's a list of the project/s that are currently in this folder:
-<ul><li> <i>Factors affecting math grades of Portugese students (Bayesian Linear regression) </li></ul>
+<ul><li> <i>Factors affecting math grades of Portugese students (Bayesian Linear regression) -- <b> Draft </li></ul>
